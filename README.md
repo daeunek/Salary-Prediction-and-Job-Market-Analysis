@@ -33,11 +33,12 @@ This Jupyter Notebook contains:
 
 1. Load dataset  
 2. Clean and preprocess data  
-3. Explore data (EDA)  
-4. Encode categorical features  
-5. Train machine learning model  
-6. Evaluate performance  
-7. Predict salary  
+3. Explore data (EDA)
+4. Insights of Work life balance score and other interesting insights
+5. Encode categorical features  
+6. Train machine learning model  
+7. Evaluate performance  
+8. Predict salary  
 
 ---
 
@@ -47,12 +48,9 @@ Examples:
 - Decision Tree
 - Random Forest
 
-(You can edit this based on your notebook)
 
 ---
 
 ## ▶️ How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone <your-repo-link>
+To run this, you need GPU, and then simply download this notebook.
